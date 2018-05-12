@@ -1,0 +1,30 @@
+_repo: North-Devon-Pottery-and-Its-Export-to-America-in-the-17th-Century_36092
+_version: 0.1.0
+alternative_title: North Devon Pottery and Its Export to America in the Seventeenth
+  Century
+covers:
+- cover_type: archival
+  image_path: 36092-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Watkins, C. Malcolm
+    gutenberg_agent_id: '38076'
+    url: http://www.gutenberg.org/2009/agents/38076
+description: ''
+gutenberg_bookshelf: Technology
+gutenberg_issued: '2011-05-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36092'
+  lccn: '61061549'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TS'
+- !lcsh 'Pottery -- England -- Devon'
+- !lcsh 'Pottery -- Atlantic States'
+- !lcc 'NK'
+title: North Devon Pottery and Its Export to America in the 17th Century
+url: http://www.gutenberg.org/ebooks/36092
